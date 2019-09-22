@@ -1,0 +1,87 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (mybank.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  Delete.cpp
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(12,11): warning C4101:  't': unreferenced local variable
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(69,18): warning C4244:  'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(147,40): warning C4101:  'add': unreferenced local variable
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(213,19): warning C4244:  'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+  Display.cpp
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(314,18): warning C4244:  'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(12,11): warning C4101:  't': unreferenced local variable
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(69,18): warning C4244:  'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(147,40): warning C4101:  'add': unreferenced local variable
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(213,19): warning C4244:  'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+  Insert.cpp
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(314,18): warning C4244:  'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(12,11): warning C4101:  't': unreferenced local variable
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(69,18): warning C4244:  'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(147,40): warning C4101:  'add': unreferenced local variable
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(213,19): warning C4244:  'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+  Login.cpp
+  mybank.cpp
+  mybankDlg.cpp
+  Option.cpp
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(314,18): warning C4244:  'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(12,11): warning C4101:  't': unreferenced local variable
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(69,18): warning C4244:  'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(147,40): warning C4101:  'add': unreferenced local variable
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(213,19): warning C4244:  'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+  SearchDialog.cpp
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(314,18): warning C4244:  'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(12,11): warning C4101:  't': unreferenced local variable
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(69,18): warning C4244:  'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(147,40): warning C4101:  'add': unreferenced local variable
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(213,19): warning C4244:  'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Raja\Desktop\FINAL PROJECT\Header1.h(314,18): warning C4244:  'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+Display.obj : warning LNK4006: "char * __cdecl Search(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Search@@YAPADV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+Display.obj : warning LNK4006: "char * __cdecl Search_m(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Search_m@@YAPADV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+Display.obj : warning LNK4006: "char * __cdecl add(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * const)" (?add@@YAPADQAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+Display.obj : warning LNK4006: "int __cdecl del(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?del@@YAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+Display.obj : warning LNK4006: "char * __cdecl disp(void)" (?disp@@YAPADXZ) already defined in Delete.obj; second definition ignored
+Display.obj : warning LNK4006: "char * __cdecl modify(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * const)" (?modify@@YAPADQAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+Display.obj : warning LNK4006: "public: void __thiscall stud::rewrite(void)" (?rewrite@stud@@QAEXXZ) already defined in Delete.obj; second definition ignored
+Display.obj : warning LNK4006: "void __cdecl smi(void)" (?smi@@YAXXZ) already defined in Delete.obj; second definition ignored
+Display.obj : warning LNK4006: "public: void __thiscall stud::unpack(int)" (?unpack@stud@@QAEXH@Z) already defined in Delete.obj; second definition ignored
+Display.obj : warning LNK4006: "int nor" (?nor@@3HA) already defined in Delete.obj; second definition ignored
+Display.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * index" (?index@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Delete.obj; second definition ignored
+Display.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * indexadd" (?indexadd@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Delete.obj; second definition ignored
+Insert.obj : warning LNK4006: "char * __cdecl Search(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Search@@YAPADV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+Insert.obj : warning LNK4006: "char * __cdecl Search_m(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Search_m@@YAPADV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+Insert.obj : warning LNK4006: "char * __cdecl add(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * const)" (?add@@YAPADQAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+Insert.obj : warning LNK4006: "int __cdecl del(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?del@@YAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+Insert.obj : warning LNK4006: "char * __cdecl disp(void)" (?disp@@YAPADXZ) already defined in Delete.obj; second definition ignored
+Insert.obj : warning LNK4006: "char * __cdecl modify(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * const)" (?modify@@YAPADQAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+Insert.obj : warning LNK4006: "public: void __thiscall stud::rewrite(void)" (?rewrite@stud@@QAEXXZ) already defined in Delete.obj; second definition ignored
+Insert.obj : warning LNK4006: "void __cdecl smi(void)" (?smi@@YAXXZ) already defined in Delete.obj; second definition ignored
+Insert.obj : warning LNK4006: "public: void __thiscall stud::unpack(int)" (?unpack@stud@@QAEXH@Z) already defined in Delete.obj; second definition ignored
+Insert.obj : warning LNK4006: "int nor" (?nor@@3HA) already defined in Delete.obj; second definition ignored
+Insert.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * index" (?index@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Delete.obj; second definition ignored
+Insert.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * indexadd" (?indexadd@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Delete.obj; second definition ignored
+Option.obj : warning LNK4006: "char * __cdecl Search(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Search@@YAPADV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+Option.obj : warning LNK4006: "char * __cdecl Search_m(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Search_m@@YAPADV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+Option.obj : warning LNK4006: "char * __cdecl add(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * const)" (?add@@YAPADQAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+Option.obj : warning LNK4006: "int __cdecl del(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?del@@YAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+Option.obj : warning LNK4006: "char * __cdecl disp(void)" (?disp@@YAPADXZ) already defined in Delete.obj; second definition ignored
+Option.obj : warning LNK4006: "char * __cdecl modify(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * const)" (?modify@@YAPADQAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+Option.obj : warning LNK4006: "public: void __thiscall stud::rewrite(void)" (?rewrite@stud@@QAEXXZ) already defined in Delete.obj; second definition ignored
+Option.obj : warning LNK4006: "void __cdecl smi(void)" (?smi@@YAXXZ) already defined in Delete.obj; second definition ignored
+Option.obj : warning LNK4006: "public: void __thiscall stud::unpack(int)" (?unpack@stud@@QAEXH@Z) already defined in Delete.obj; second definition ignored
+Option.obj : warning LNK4006: "int nor" (?nor@@3HA) already defined in Delete.obj; second definition ignored
+Option.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * index" (?index@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Delete.obj; second definition ignored
+Option.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * indexadd" (?indexadd@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Delete.obj; second definition ignored
+SearchDialog.obj : warning LNK4006: "char * __cdecl Search(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Search@@YAPADV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+SearchDialog.obj : warning LNK4006: "char * __cdecl Search_m(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Search_m@@YAPADV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+SearchDialog.obj : warning LNK4006: "char * __cdecl add(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * const)" (?add@@YAPADQAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+SearchDialog.obj : warning LNK4006: "int __cdecl del(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?del@@YAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+SearchDialog.obj : warning LNK4006: "char * __cdecl disp(void)" (?disp@@YAPADXZ) already defined in Delete.obj; second definition ignored
+SearchDialog.obj : warning LNK4006: "char * __cdecl modify(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * const)" (?modify@@YAPADQAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Delete.obj; second definition ignored
+SearchDialog.obj : warning LNK4006: "public: void __thiscall stud::rewrite(void)" (?rewrite@stud@@QAEXXZ) already defined in Delete.obj; second definition ignored
+SearchDialog.obj : warning LNK4006: "void __cdecl smi(void)" (?smi@@YAXXZ) already defined in Delete.obj; second definition ignored
+SearchDialog.obj : warning LNK4006: "public: void __thiscall stud::unpack(int)" (?unpack@stud@@QAEXH@Z) already defined in Delete.obj; second definition ignored
+SearchDialog.obj : warning LNK4006: "int nor" (?nor@@3HA) already defined in Delete.obj; second definition ignored
+SearchDialog.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * index" (?index@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Delete.obj; second definition ignored
+SearchDialog.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * indexadd" (?indexadd@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Delete.obj; second definition ignored
+C:\Users\Raja\Desktop\FINAL PROJECT\Debug\PAN_SYSTEM.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  PAN_SYSTEM.vcxproj -> C:\Users\Raja\Desktop\FINAL PROJECT\Debug\PAN_SYSTEM.exe
